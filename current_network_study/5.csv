@@ -1,0 +1,140 @@
+Id,Label,source,modularity_class,indegree,outdegree,Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,pageranks
+0,Afghanistan,Afghanistan,8,2,0,2,0,0,0,0,0.003987
+1,Albania,Albania,4,3,0,3,0,0,0,0,0.004729
+2,Algeria,Algeria,4,13,0,13,0,0,0,0,0.011272
+3,Angola,Angola,24,1,1,2,4,0.414474,0.434524,0,0.002335
+4,Argentina,Argentina,4,8,6,14,4,0.448399,0.478175,66.635731,0.004269
+5,Armenia,Armenia,8,2,0,2,0,0,0,0,0.002281
+6,Australia,Australia,16,26,14,40,4,0.468401,0.515212,24.438969,0.010126
+7,Austria,Austria,0,23,43,66,3,0.597156,0.667989,136.88818,0.008674
+8,Azerbaijan,Azerbaijan,8,3,0,3,0,0,0,0,0.003297
+9,Bahamas,Bahamas,4,1,0,1,0,0,0,0,0.002477
+10,Bahrain,Bahrain,24,3,0,3,0,0,0,0,0.004638
+11,Bangladesh,Bangladesh,16,8,0,8,0,0,0,0,0.006826
+13,Belarus,Belarus,0,3,13,16,3,0.475472,0.517196,2.281389,0.00271
+14,Belgium,Belgium,0,29,39,68,3,0.586047,0.652116,212.184558,0.011823
+18,Bhutan,Bhutan,16,1,0,1,0,0,0,0,0.003877
+19,Bolivia (Plurinational State of),Bolivia (Plurinational State of),4,1,0,1,0,0,0,0,0.002265
+20,Bosnia and Herzegovina,Bosnia and Herzegovina,0,5,8,13,3,0.451613,0.48545,0.325,0.003509
+21,Brazil,Brazil,4,14,47,61,3,0.59434,0.677249,478.525901,0.008518
+23,Bulgaria,Bulgaria,0,13,5,18,3,0.424242,0.453704,4.637321,0.007536
+27,Cambodia,Cambodia,16,4,2,6,4,0.43299,0.454365,0,0.004034
+28,Cameroon,Cameroon,4,0,6,6,3,0.461818,0.488189,0,0.002111
+29,Canada,Canada,16,16,33,49,3,0.545455,0.615079,34.991731,0.007123
+30,Central African Republic,Central African Republic,24,0,1,1,4,0.412338,0.433071,0,0.002111
+32,Chile,Chile,16,15,33,48,3,0.538462,0.611111,185.226408,0.010439
+33,China,China,24,72,73,145,3,0.696133,0.787037,4272.425425,0.073678
+34,Colombia,Colombia,8,13,2,15,5,0.31738,0.332275,1.261255,0.007766
+35,Congo,Congo,24,1,3,4,4,0.440559,0.463624,0.166667,0.002487
+36,Costa Rica,Costa Rica,4,4,2,6,4,0.418605,0.441799,249.916667,0.009531
+37,Côte d'Ivoire,Côte d'Ivoire,0,1,2,3,3,0.387692,0.40873,92,0.002293
+38,Croatia,Croatia,0,10,10,20,3,0.454874,0.493386,5.369348,0.004948
+39,Cuba,Cuba,4,1,0,1,0,0,0,0,0.002459
+40,Cyprus,Cyprus,8,2,0,2,0,0,0,0,0.00312
+41,Czechia,Czechia,0,19,23,42,3,0.520661,0.574074,21.054293,0.007054
+42,Democratic People's Republic of Korea,Democratic People's Republic of Korea,24,1,0,1,0,0,0,0,0.002969
+43,Democratic Republic of the Congo,Democratic Republic of the Congo,24,0,1,1,4,0.412338,0.433071,0,0.002111
+44,Denmark,Denmark,0,17,9,26,3,0.456522,0.492063,8.180763,0.006388
+45,Djibouti,Djibouti,24,1,0,1,0,0,0,0,0.002969
+47,Dominican Republic,Dominican Republic,4,4,0,4,0,0,0,0,0.004398
+48,Ecuador,Ecuador,8,12,6,18,4,0.459854,0.487434,140.676486,0.012449
+49,Egypt,Egypt,0,29,3,32,4,0.357955,0.382275,8.019809,0.011417
+50,El Salvador,El Salvador,4,4,1,5,5,0.29717,0.30873,125.5,0.006913
+51,Equatorial Guinea,Equatorial Guinea,24,0,1,1,4,0.412338,0.433071,0,0.002111
+53,Estonia,Estonia,0,8,21,29,3,0.501992,0.556878,5.646371,0.003378
+56,Finland,Finland,4,11,65,76,3,0.670213,0.756614,82.814245,0.004632
+57,France,France,0,33,39,72,3,0.577982,0.648148,218.498642,0.012684
+59,Gabon,Gabon,24,0,4,4,4,0.433447,0.459974,0,0.002111
+60,Gambia,Gambia,24,0,1,1,4,0.412338,0.433071,0,0.002111
+61,Georgia,Georgia,24,3,0,3,0,0,0,0,0.003977
+62,Germany,Germany,0,38,70,108,2,0.692308,0.777778,822.63254,0.01492
+63,Ghana,Ghana,16,3,3,6,4,0.439024,0.462302,0,0.00362
+64,Greece,Greece,4,17,5,22,4,0.415842,0.446429,21.167292,0.008487
+65,Guatemala,Guatemala,4,6,2,8,4,0.405145,0.42791,8.954218,0.00485
+69,Haiti,Haiti,4,1,0,1,0,0,0,0,0.002477
+70,Honduras,Honduras,4,1,1,2,6,0.230769,0.240079,0,0.002477
+71,Hungary,Hungary,0,16,15,31,3,0.458182,0.509259,12.075161,0.005906
+73,India,India,16,41,18,59,4,0.480916,0.535053,671.741978,0.037384
+74,Indonesia,Indonesia,16,28,47,75,3,0.597156,0.678571,343.81661,0.015764
+75,Iran (Islamic Republic of),Iran (Islamic Republic of),16,13,1,14,4,0.411765,0.43254,8.820303,0.011053
+76,Iraq,Iraq,24,6,1,7,5,0.310345,0.332937,0.377632,0.004829
+77,Ireland,Ireland,0,13,4,17,4,0.394984,0.422619,0.229167,0.006005
+78,Israel,Israel,4,20,2,22,4,0.415842,0.438492,4.243869,0.007872
+79,Italy,Italy,0,37,49,86,3,0.617647,0.693122,560.812231,0.015873
+80,Jamaica,Jamaica,4,2,0,2,0,0,0,0,0.002631
+81,Japan,Japan,16,27,17,44,3,0.490272,0.53836,42.037684,0.0123
+82,Jordan,Jordan,4,10,1,11,5,0.280624,0.294444,0,0.010924
+83,Kazakhstan,Kazakhstan,8,3,2,5,1,1,1,18.47697,0.003139
+84,Kenya,Kenya,24,11,0,11,0,0,0,0,0.015909
+85,Kuwait,Kuwait,16,8,1,9,5,0.280624,0.294444,0,0.010954
+86,Kyrgyzstan,Kyrgyzstan,8,1,0,1,0,0,0,0,0.00222
+87,Lao People's Democratic Republic,Lao People's Democratic Republic,16,1,2,3,4,0.414474,0.437831,0,0.002526
+88,Latvia,Latvia,0,8,22,30,3,0.506024,0.562169,5.635146,0.003384
+89,Lebanon,Lebanon,4,9,0,9,0,0,0,0,0.0054
+90,Liberia,Liberia,24,0,1,1,4,0.412338,0.433071,0,0.002111
+91,Libya,Libya,4,1,0,1,0,0,0,0,0.00301
+92,Lithuania,Lithuania,0,10,16,26,3,0.482759,0.530423,4.07754,0.003684
+93,Luxembourg,Luxembourg,0,6,4,10,3,0.414474,0.441799,0.090909,0.003813
+95,Malawi,Malawi,24,1,0,1,0,0,0,0,0.002473
+96,Malaysia,Malaysia,16,18,23,41,4,0.5,0.561508,37.031866,0.010417
+97,Mali,Mali,24,0,1,1,4,0.412338,0.433071,0,0.002111
+98,Malta,Malta,0,2,0,2,0,0,0,0,0.002797
+100,Mauritius,Mauritius,24,1,0,1,0,0,0,0,0.002969
+101,Mexico,Mexico,4,19,7,26,4,0.440559,0.474206,33.983348,0.007485
+102,Mongolia,Mongolia,24,1,0,1,0,0,0,0,0.002969
+103,Morocco,Morocco,4,12,0,12,0,0,0,0,0.005717
+104,Mozambique,Mozambique,24,1,1,2,4,0.413115,0.433862,0,0.002473
+105,Myanmar,Myanmar,16,4,2,6,4,0.417219,0.440476,0,0.004058
+106,Nepal,Nepal,16,1,0,1,0,0,0,0,0.003877
+107,Netherlands (Kingdom of the),Netherlands (Kingdom of the),0,35,32,67,3,0.550218,0.615079,202.313513,0.014143
+110,New Zealand,New Zealand,16,10,14,24,4,0.47191,0.517857,2.354413,0.006128
+111,Nicaragua,Nicaragua,4,1,0,1,0,0,0,0,0.002477
+113,Nigeria,Nigeria,16,10,1,11,4,0.411765,0.43254,0,0.00705
+114,Norway,Norway,0,10,17,27,3,0.492188,0.539683,4.025153,0.004378
+115,Oman,Oman,16,6,0,6,0,0,0,0,0.0071
+116,Pakistan,Pakistan,16,18,4,22,4,0.379518,0.40873,41.86146,0.008311
+117,Panama,Panama,24,2,1,3,4,0.411765,0.43254,0,0.003335
+118,Papua New Guinea,Papua New Guinea,16,0,3,3,4,0.42053,0.446194,0,0.002111
+119,Paraguay,Paraguay,4,2,1,3,4,0.373887,0.394841,0,0.00287
+120,Peru,Peru,8,13,2,15,4,0.353933,0.376984,13.876659,0.010106
+121,Philippines,Philippines,16,20,7,27,4,0.453237,0.484788,3.972584,0.009685
+122,Poland,Poland,0,29,34,63,3,0.545455,0.617725,237.058661,0.011816
+123,Portugal,Portugal,4,15,25,40,3,0.510121,0.572751,114.161384,0.006566
+124,Qatar,Qatar,24,5,0,5,0,0,0,0,0.004096
+125,Republic of Korea,Republic of Korea,16,26,24,50,4,0.525,0.580026,161.968471,0.010604
+126,Republic of Moldova,Republic of Moldova,0,4,0,4,0,0,0,0,0.002846
+127,Romania,Romania,0,20,31,51,3,0.538462,0.60582,132.857664,0.009277
+128,Russian Federation,Russian Federation,8,21,65,86,3,0.659686,0.752646,752.119033,0.008339
+133,Saudi Arabia,Saudi Arabia,16,29,6,35,4,0.388889,0.422619,279.157809,0.034973
+134,Senegal,Senegal,4,2,0,2,0,0,0,0,0.003385
+136,Sierra Leone,Sierra Leone,24,0,1,1,4,0.412338,0.433071,0,0.002111
+137,Singapore,Singapore,16,16,20,36,4,0.473684,0.535053,30.722271,0.009159
+138,Slovakia,Slovakia,0,13,14,27,3,0.47191,0.517196,6.050461,0.005223
+139,Slovenia,Slovenia,0,16,17,33,3,0.477273,0.529101,38.242225,0.006979
+140,Solomon Islands,Solomon Islands,24,0,2,2,4,0.417763,0.440945,0,0.002111
+141,Somalia,Somalia,24,3,0,3,0,0,0,0,0.004665
+142,South Africa,South Africa,24,15,19,34,3,0.501992,0.551587,422.04122,0.008087
+143,Spain,Spain,4,28,37,65,3,0.567568,0.637566,440.990307,0.01512
+144,Sri Lanka,Sri Lanka,16,8,1,9,5,0.325581,0.342857,0,0.006837
+146,Suriname,Suriname,24,0,2,2,4,0.413681,0.437008,0,0.002111
+147,Sweden,Sweden,0,20,57,77,3,0.642857,0.724868,186.188595,0.007809
+148,Switzerland,Switzerland,0,16,13,29,3,0.484615,0.52381,4.915279,0.006554
+149,Syrian Arab Republic,Syrian Arab Republic,24,2,0,2,0,0,0,0,0.003078
+150,Tajikistan,Tajikistan,8,2,0,2,0,0,0,0,0.003555
+151,Thailand,Thailand,16,25,23,48,4,0.484615,0.550926,135.095369,0.01121
+155,Trinidad and Tobago,Trinidad and Tobago,4,3,0,3,0,0,0,0,0.0029
+156,Tunisia,Tunisia,4,10,0,10,0,0,0,0,0.004966
+157,Türkiye,Türkiye,4,35,22,57,4,0.448399,0.520503,492.094266,0.023267
+158,Turkmenistan,Turkmenistan,8,1,0,1,0,0,0,0,0.00222
+159,Uganda,Uganda,24,2,1,3,1,1,1,0.142857,0.004238
+160,Ukraine,Ukraine,0,12,23,35,3,0.508065,0.566138,95.625329,0.005248
+161,United Arab Emirates,United Arab Emirates,16,25,9,34,4,0.427119,0.468254,65.503059,0.016036
+162,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,0,37,29,66,3,0.540773,0.601852,364.338018,0.019406
+163,United Republic of Tanzania,United Republic of Tanzania,24,2,1,3,1,1,1,0.142857,0.003331
+164,United States of America,United States of America,4,44,66,110,3,0.673797,0.760582,1524.324445,0.02838
+165,Uruguay,Uruguay,4,2,16,18,3,0.498024,0.541005,8.502083,0.00287
+166,Uzbekistan,Uzbekistan,8,4,0,4,0,0,0,0,0.004606
+168,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),4,2,0,2,0,0,0,0,0.002459
+169,Viet Nam,Viet Nam,16,27,11,38,4,0.463235,0.503307,41.484932,0.015126
+171,Zambia,Zambia,24,1,1,2,4,0.413115,0.433862,0,0.002473
+172,Zimbabwe,Zimbabwe,24,1,0,1,0,0,0,0,0.002473
